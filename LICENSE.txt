@@ -1,0 +1,7 @@
+Copyright © 2025 Hrishik Kunduru. All rights reserved.
+
+This software is intended for internal use only. You may not modify, redistribute,
+repackage, reverse-engineer, sublicense, or reuse any portion of this code or
+compiled executable without explicit written permission from the author.
+
+Unauthorized copying or distribution of this software, via any medium, is strictly prohibited.
