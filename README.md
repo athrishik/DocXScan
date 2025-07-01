@@ -1,5 +1,8 @@
 Please install required modules.
 Ideally to be wrapped using PyInstaller.
+
+DocXSuite launcher exe included as demo, other 2 programs are only provided in the form of their python scripts due to file size constraints
+
 REQUIREMENTS: Document Tools Suite Dependencies
 
 python-docx==0.8.11
@@ -7,7 +10,7 @@ pandas==2.0.3
 openpyxl==3.1.2
 sv-ttk==2.6.0
 -----------------------------------------------------------------------------------
-DocxSuite - Document Processing Toolkit
+DocXSuite - Document Processing Toolkit
 Version 3.0 | Copyright © 2025 Hrishik Kunduru
 -----------------------------------------------------------------------------------
 🚀 Quick Start
